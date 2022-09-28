@@ -1,7 +1,7 @@
 ### <div align="center">I'm Agustin, a full-stack developer student 👨‍💻 studying since 2019 🚀</div>  
   
 
-- 🌱 I’m currently learning C#, Java Blazor, React and more
+- 🌱 I’m currently learning C#, Java, Blazor, React and more
   
 
 - ❓ Ask me about anything related to my projects  
