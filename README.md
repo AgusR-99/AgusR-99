@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning C#, Java, Blazor, React and more
   
 
-- ❓ Ask me about anything related to my projects  
+- ❓ Ask me anything related to my projects  
   
 
 - ⚡ Fun fact: I like to keep my code clean and well indented  
